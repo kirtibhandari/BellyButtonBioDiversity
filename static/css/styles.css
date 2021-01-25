@@ -1,0 +1,60 @@
+#gauge,#bar, .container{
+    background-color:rgb(147, 245, 240);
+  }
+
+  
+  .main-svg,#bubble {
+    background-color: transparent !important;
+ }
+
+ #bubble{
+    background-color: white !important;
+ }
+
+ .jumbotron{
+    background-size: 100%; 
+    margin-bottom: 0px !important;
+ }
+
+ h1{
+    color:rgb(10, 107, 26) !important;
+    font-weight: bold; 
+    font-size: 50px; font-family: 'Potta One', cursive;
+ }
+
+ .jumbotron p{
+    color:rgb(196, 13, 28);
+    font-weight: bold;
+    font-size: 35px; 
+    font-family: 'Fredoka One', cursive;
+
+ }
+ 
+ .project, p{
+    color:rgb(8, 66, 39);
+    font-size:18px;  
+    text-align: justify; 
+    font-weight: bold;
+
+ }
+ 
+ .container-fluid{
+    background-color: rgb(250, 206, 141) !important;
+    margin-top:0px;
+    margin-bottom: 5%;
+ }
+
+ #gauge{
+     margin-top: 16%;
+      
+ }
+
+ .demo, #bar{
+    margin-top: 5%;
+ }
+
+ #combine{
+    margin-left: auto;
+    margin-right: auto;
+   margin-bottom: auto;
+ }
