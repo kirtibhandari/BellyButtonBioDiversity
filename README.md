@@ -22,4 +22,4 @@ An interactive dashboard to display the bio-diversity of belly button of each in
 ***Take A Glimpse of my Dashboard***
 https://kirtibhandari.github.io/BellyButtonBioDiversity/
 
-![](https://github.com/kirtibhandari/belly_button_biodiversity_dashboard/blob/main/Resources/dashboard.png)
+![](https://github.com/kirtibhandari/BellyButtonBioDiversity/blob/main/Resources/dashboard.png)
